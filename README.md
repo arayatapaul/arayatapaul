@@ -1,5 +1,4 @@
 <html>
-</head>
 <body background="Galilee.jpg">
 <h1 style="text-align:center;background-color:blue">Philosopy</h1>
 <p>Faith without knowledge is blind, knowledge without faith is dangerous, supported by knowledge and knowledge guided by faith shall lead to greatness.
@@ -8,7 +7,6 @@
 <html>
 
 <html>
-</head>
 <body>
 <h1 style="text-align:center;background-color:red">Vision</h1>
 <p>To be an institution that raises citizens ready to face the future-strengthened through education, under guidance of God Almighty.
@@ -17,7 +15,6 @@
 <html>
 
 <html>
-</head>
 <body>
 <h1 style="text-align:center;background-color:yellow">Mission</h1>
 <p>Provide students with top-notch education and skills training combined with spiritual, moral and personal developement.
@@ -26,7 +23,6 @@
 <html>
 
 <html>
-</head>
 <body>
 <h1 style="text-align:center;background-color:green">Goal</h1>
 <p>To WIN the youth hearts and minds CONSOLIDATE them to be disciples of God, and SEND them leaders who would create positive change in the world.
@@ -35,7 +31,6 @@
 <html>
 
 <html>
-</head>
 <body>
 <h1 style="text-align:center;background-color:darkblue">Objectives</h1>
 <p>•To provide relevant, up-to-date, affordable education to all to students in order to prepare them for their chosen career.</p>
